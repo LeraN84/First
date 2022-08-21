@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+article{
+    margin: 0;
+}
+
+image{
+    display: inline-block;
+}
+
+header>*{
+    display: inline;
+}
+
+footer{
+    background-color: #FFA63F;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+    color: rgb(158, 158, 158);
+    text-decoration: none;
+    font-size: 25px;
+    margin: 20px;
+}
+
+#r1{
+    background-image: url(R1.png);
+    background-size: 100% 100%;
+}
+
+#r2{
+    background-image: url(RO1.png);
+}
+
+#r3{
+    background-color: #FF5B5B;
+}
+
+#r4{
+    background-image: url(R4.png);
+}
+
+#r5{
+    text-align: center;
+
+    background-image: url(R6.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.b_l{
+    background-image: url(R.png);
+    margin: 0;
+}
+
+#hdr{
+    color: white;
+    margin: 20px;
+    font-size: 80px;
+}
+
+.rl{
+    position: relative;
+    top: 100px;
+    left: 160px;
+}
+
+.ab{
+    position: absolute;
+}
+
+.l1{
+    font-weight: 300;
+    position: relative;
+    text-align:center;
+    top: -350px;
+}
+
+#r4>*{
+    text-align: center;
+}
+
+footer>a{
+    color: black;
+}
+
+.lb{
+    color: white;
+    font-size: 35px;
+}
+
+.b{
+    color: black;
+}
+
+.o{
+    padding: 10px 5px;
+}
+
+
+/* 
+h1{
+    color:rgb(45, 176, 252);
+} 
+. - class;
+# - id;
+965
+550
+
+.s{
+    position: relative;
+    display: inline-block;
+}
+
+#s1{
+    top: -40px;
+    left: -113px;
+}
+
+#s2{
+    top: 50;
+    left: -1258px;
+}
+
+#s3{
+    top: -225px;
+}
+
+#s4{
+    top: -400px;
+}
+
+#s5{
+    top: 50;
+}
+
+#s6{
+    top: -225;
+}
+
+*/
+
+/*
+            <img class="s" id="s1" src="Star 1.png">
+            <img class="s" id="s2" src="Star 1.png">
+            <img class="s" id="s3" src="Star 1.png">
+            <img class="s" id="s4" src="Star 1.png">
+            <img class="s" id="s5" src="Star 1.png">
+            <img class="s" id="s6" src="Star 1.png">
+            */
