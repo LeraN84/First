@@ -1,0 +1,32 @@
+body{
+    background-image: url(kafe.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    margin: 0;
+    padding: 5% 10%;
+    color: white;
+}
+
+ul{
+    font-size: 200%;
+    text-align: left;
+}
+
+li{
+    font-size: 150%;
+    text-align: left;
+}
+
+p{
+    font-size: 150%;
+}
+
+input {
+    padding: 5px;
+    width: 30%;
+    border: 1px solid white;
+    background-image: url(fon.png);
+    border-radius: 5px;
+    color: #ffffff;
+}
